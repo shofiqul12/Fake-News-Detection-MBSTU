@@ -14,7 +14,13 @@ To run the notebooks successfully, please follow these steps:
    * `ISOTFakeNews`
    * `WelFakeNews`
 3. Place these folders into your directory as specified in the notebook configuration.
-* **Google Drive Link:** [Download Code Here]
+   
+4.*CODE Colab Link:** [Download Code Here]
+   (https://colab.research.google.com/drive/1ySVBrJAx3R7MwyCL3hMRlwr_wTRJ-ivu?authuser=3&hl=en)
+   
+5.  **Google Drive Link:** [Download Code Here]
+6.  
   (https://drive.google.com/file/d/1ySVBrJAx3R7MwyCL3hMRlwr_wTRJ-ivu/view?usp=drive_link)
+
 ## 🚀 How to Run
 Open `Fake_News_Detection_Final.ipynb` in Google Colab or Jupyter Notebook and run the cells sequentially.
