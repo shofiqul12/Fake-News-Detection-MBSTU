@@ -18,8 +18,7 @@ To run the notebooks successfully, please follow these steps:
 4.*CODE Colab Link:** [Download Code Here]
    (https://colab.research.google.com/drive/1ySVBrJAx3R7MwyCL3hMRlwr_wTRJ-ivu?authuser=3&hl=en)
    
-5.  **Google Drive Link:** [Download Code Here]
-6.  
+5.  **Google Drive Link:** [Download Code Here]  
   (https://drive.google.com/file/d/1ySVBrJAx3R7MwyCL3hMRlwr_wTRJ-ivu/view?usp=drive_link)
 
 ## 🚀 How to Run
